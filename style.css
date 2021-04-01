@@ -1,0 +1,10 @@
+body
+{
+    font-size:1em;
+    font-family:Arial;
+    backgroung:#ff6a00;
+}
+
+#hellomessage {
+    font-weight:bold;
+}
